@@ -3,16 +3,16 @@ All bioinformatics reports mentioned in the Results section are available here. 
 
 The reports are as follows:
 
-  •	1.B. Differences between Tenebrio molitor larvae and adults – Bacteria
-  •	1.F. Differences between Tenebrio molitor larvae and adults – Fungi
-  •	2.B. Differences between T. molitor colonies in the larval stage – Bacteria
-  •	2.F. Differences between T. molitor colonies in the larval stage – Fungi
-  •	3.B. Differences between T. molitor colonies in the adult stage – Bacteria
-  •	3.F. Differences between T. molitor colonies in the adult stage – Fungi
-  •	4.B. Differences between treatments in T. molitor larvae – Bacteria
-  •	4.F. Differences between treatments in T. molitor larvae – Fungi
-  •	5.B. Differences between treatments in T. molitor adults – Bacteria
-  •	5.F. Differences between treatments in T. molitor adults – Fungi
+  -	1.B. Differences between Tenebrio molitor larvae and adults – Bacteria
+  -	1.F. Differences between Tenebrio molitor larvae and adults – Fungi
+  -	2.B. Differences between T. molitor colonies in the larval stage – Bacteria
+  -	2.F. Differences between T. molitor colonies in the larval stage – Fungi
+  -	3.B. Differences between T. molitor colonies in the adult stage – Bacteria
+  -	3.F. Differences between T. molitor colonies in the adult stage – Fungi
+  -	4.B. Differences between treatments in T. molitor larvae – Bacteria
+  -	4.F. Differences between treatments in T. molitor larvae – Fungi
+  -	5.B. Differences between treatments in T. molitor adults – Bacteria
+  -	5.F. Differences between treatments in T. molitor adults – Fungi
 
 Each report includes results and figures for the following sections:
 
