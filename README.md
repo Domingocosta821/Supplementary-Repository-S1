@@ -30,11 +30,11 @@ Each report includes results and figures for the following sections:
 
 The differential abundance analysis using the DESeq2 package in R includes the following parameters:
 
-  •	baseMean: the average abundance across all samples in the analysis.
-  •	log2FoldChange: the log base 2 of the ratio between one group and another. A negative value indicates higher abundance in the reference (denominator) group, while a positive value indicates the opposite. For example, a log2FC of 1 (2¹) indicates twice the abundance, and a value of 2 (2²) indicates four times the abundance.
-  •	lfcSE: the standard error of the log2FoldChange.
-  •	stat: the value of the test statistic used in the comparison.
-  •	pvalue: the p-value from the test under the null hypothesis of no significant difference between group means.
-  •	padj: the adjusted p-value. When performing multiple comparisons, p-values are adjusted to reduce the number of false positives. The most commonly used method is FDR (False Discovery Rate), also known as the Benjamini-Hochberg correction.
-  •	comp: the specific comparison being analysed.
-  •	ref: the reference group, which serves as the denominator in the ratio.
+  -	baseMean: the average abundance across all samples in the analysis.
+  -	log2FoldChange: the log base 2 of the ratio between one group and another. A negative value indicates higher abundance in the reference (denominator) group, while a positive value indicates the opposite. For example, a log2FC of 1 (2¹) indicates twice the abundance, and a value of 2 (2²) indicates four times the abundance.
+  -	lfcSE: the standard error of the log2FoldChange.
+  -	stat: the value of the test statistic used in the comparison.
+  -	pvalue: the p-value from the test under the null hypothesis of no significant difference between group means.
+  -	padj: the adjusted p-value. When performing multiple comparisons, p-values are adjusted to reduce the number of false positives. The most commonly used method is FDR (False Discovery Rate), also known as the Benjamini-Hochberg correction.
+  -	comp: the specific comparison being analysed.
+  -	ref: the reference group, which serves as the denominator in the ratio.
