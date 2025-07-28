@@ -2,6 +2,7 @@
 All bioinformatics reports mentioned in the Results section are available here. To open the documents from this link, you must first download them. Once downloaded, several .html files will appear that can be opened with any web browser.
 
 The reports are as follows:
+
   •	1.B. Differences between Tenebrio molitor larvae and adults – Bacteria
   •	1.F. Differences between Tenebrio molitor larvae and adults – Fungi
   •	2.B. Differences between T. molitor colonies in the larval stage – Bacteria
@@ -14,6 +15,7 @@ The reports are as follows:
   •	5.F. Differences between treatments in T. molitor adults – Fungi
 
 Each report includes results and figures for the following sections:
+
   1.	Introduction
   2.	Rarefaction curves of pooled samples
   3.	Taxonomic composition of pooled samples
@@ -27,6 +29,7 @@ Each report includes results and figures for the following sections:
   11.	Krona plots
 
 The differential abundance analysis using the DESeq2 package in R includes the following parameters:
+
   •	baseMean: the average abundance across all samples in the analysis.
   •	log2FoldChange: the log base 2 of the ratio between one group and another. A negative value indicates higher abundance in the reference (denominator) group, while a positive value indicates the opposite. For example, a log2FC of 1 (2¹) indicates twice the abundance, and a value of 2 (2²) indicates four times the abundance.
   •	lfcSE: the standard error of the log2FoldChange.
